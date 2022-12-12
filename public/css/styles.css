@@ -11,10 +11,19 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    background-color: #000000;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
 }
 
 .navbar-nav li a:hover {
-    color: #000000 !important;
+    color: #948f8f !important;
 }
 
 .footer-padding {
